@@ -1,0 +1,10 @@
+
+Text Recognition and Translator
+
+
+Getting Started
+Python libraries 
+
+Pillow: A powerful image-processing library. 
+Pytesseract: The library used to recognise text in an image.
+Googletrans:  Used in translation. t
